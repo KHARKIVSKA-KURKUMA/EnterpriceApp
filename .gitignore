@@ -3,6 +3,7 @@
 
 build
 test
+dist
 # Log file
 *.log
 
